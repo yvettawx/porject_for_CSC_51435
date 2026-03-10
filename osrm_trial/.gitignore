@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# OSMnx / app cache
+cache/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+
+# Generated map output
+route_map.html
