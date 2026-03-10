@@ -1,2 +1,11 @@
 /target
 /.idea
+.venv/
+__pycache__/
+*.pyc
+training_data.csv
+bin_log.csv
+osrm_trial/cache/
+osrm_trial/ml/report.html
+osrm_trial/route_map.html
+.DS_Store
